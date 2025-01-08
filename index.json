@@ -91,6 +91,14 @@
   },
   "minitest": {
   },
+  "minitest-hooks": {
+    "dependencies": [
+      "minitest"
+    ],
+    "requires": [
+      "minitest/hooks"
+    ]
+  },
   "mocha": {
     "requires": [
       "mocha/api"
